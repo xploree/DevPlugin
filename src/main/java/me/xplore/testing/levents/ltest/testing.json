@@ -1,0 +1,8 @@
+{
+    "block": [{
+        "xLocation": 20,
+        "yLocation": 100,
+        "zLocation": 500,
+        "blocktype": "DIAMOND_BLOCK"
+    }]
+}

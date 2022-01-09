@@ -1,0 +1,28 @@
+name: DevPlugin
+version: '${project.version}'
+main: me.xplore.testing.Main
+api-version: 1.17
+description: Plugin for me(Xplore) to make random things
+commands:
+  ping:
+    description: Pong!
+  broadcast:
+    description: Broadcast a Message to the whole server
+  webhook:
+    description: Sends a message to a discord webhook
+  music:
+    description: Plays a disc of your choice
+  setDif:
+    description: Sets Difficulty
+  setHunger:
+    description: Sets Hunger
+  explode:
+    description: Creates Explosion at the player
+  clr:
+    description: Clears player inventory
+  getLocation:
+    description: Gets a selected online players current location
+  eventcreator:
+    description: Enables the Event Creator
+  everyone:
+    description: Pings everyone Message is optional
