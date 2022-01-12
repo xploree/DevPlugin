@@ -35,6 +35,6 @@ public final class Main extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        System.out.println("[DEV PLUGIN] Plugin Unloading");
+        System.out.println("[DEV PLUGIN] Plugin Disabling");
     }
 }
