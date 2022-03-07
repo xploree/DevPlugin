@@ -15,7 +15,7 @@ import java.io.IOException;
 
 public class webhook implements CommandExecutor {
     private final Main main;
-    String webhookURL = "set this to your webhook";
+    String webhookURL = "no webhook for you :) ";
 
     public webhook(Main main) {
         this.main = main;
